@@ -1,5 +1,5 @@
 /*
-  Content-Security-Policy: default-src 'self'; connect-src 'self'; script-src 'self' https://www.googletagmanager.com 'sha256-MIxUxP1eI71+iIPFXEcZzdvb/Whmq+vPhAWxUfjTzOY=' 'sha256-bUf9tVceFEfgLN9S61nbHttCZLlXubeFiaARwPWmgLo='; style-src 'self' 'sha256-XOyHuWE0UOp5Z40lP6GhS+bertK9G9ZvTLNyfBds1/I=' https://cdnjs.cloudflare.com; img-src 'self'; object-src 'none'; upgrade-insecure-requests; form-action 'self'; frame-ancestors 'none'; base-uri 'self'; font-src 'self'; media-src 'self'; frame-src 'self';
+  Content-Security-Policy: default-src 'self'; connect-src 'self' https://google-analytics.com; script-src 'self' https://www.googletagmanager.com 'sha256-MIxUxP1eI71+iIPFXEcZzdvb/Whmq+vPhAWxUfjTzOY=' 'sha256-bUf9tVceFEfgLN9S61nbHttCZLlXubeFiaARwPWmgLo='; style-src 'self' 'sha256-XOyHuWE0UOp5Z40lP6GhS+bertK9G9ZvTLNyfBds1/I=' https://cdnjs.cloudflare.com; img-src 'self'; object-src 'none'; upgrade-insecure-requests; form-action 'self'; frame-ancestors 'none'; base-uri 'self'; font-src 'self'; media-src 'self'; frame-src 'self';
   X-Frame-Options: DENY
   X-XSS-Protection: 0
   Referrer-Policy: no-referrer
